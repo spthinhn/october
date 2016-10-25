@@ -1,3 +1,7 @@
 .DS_Store
 *.log
 storage/
+<<<<<<< HEAD
+=======
+vendor/
+>>>>>>> 65c5803b4ef99b2da8882c0432085c9e4f938063
